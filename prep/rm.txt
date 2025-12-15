@@ -1,0 +1,4 @@
+loguru
+pyinstaller
+dbf==0.99.10
+sqlite-utils==3.38
